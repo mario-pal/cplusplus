@@ -1,0 +1,60 @@
+Betty Armacost
+Engineering
+18
+100 90 100 
+1212
+Joseph Hyman
+Mathematics
+21
+100 100 90 
+1234
+Bob Sanchez
+Art
+22
+90 88 90 
+2296
+Mary Janus
+Computer Science
+22
+80 90 70 
+3344
+Mike Wong
+English
+20
+88 77 94 
+4321
+Mary Jones
+Computer Science
+22
+88 90 76 
+5678
+Tom White
+Engineering
+22
+55 90 90 
+6743
+Sue Huang
+Spanish
+20
+90 100 100 
+7532
+Bill Jones
+Computer Science
+19
+90 90 76 
+7578
+Bill Tomoso
+French
+25
+70 88 90 
+7654
+Mike Smith
+History
+22
+70 100 90 
+9234
+Ken James
+Mathematics
+23
+70 90 70 
+9998
